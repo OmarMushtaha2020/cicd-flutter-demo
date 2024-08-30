@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "55466903142",
+    "project_id": "cicdflutterdemo",
+    "storage_bucket": "cicdflutterdemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55466903142:android:7ee85f2a5621335f03cfa7",
+        "android_client_info": {
+          "package_name": "com.example.cicd_flutter_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGTIboKOePevSod8XvH1WZxnypW3ApS5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
